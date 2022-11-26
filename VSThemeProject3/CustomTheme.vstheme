@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSThemeProject3" GUID="{e0b4deb9-67d2-489c-a7e7-9772f71cb43e}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="VSThemeProject3 (1)" GUID="{458f71bd-7e22-4188-8aef-e4d68f1014a3}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -2618,13 +2618,13 @@
         <Background Type="CT_RAW" Source="72555555" />
       </Color>
       <Color Name="CommandBarGradientBegin">
-        <Background Type="CT_RAW" Source="2D2D2D30" />
+        <Background Type="CT_RAW" Source="592D2D30" />
       </Color>
       <Color Name="CommandBarGradientEnd">
-        <Background Type="CT_RAW" Source="332D2D30" />
+        <Background Type="CT_RAW" Source="4C2D2D30" />
       </Color>
       <Color Name="CommandBarGradientMiddle">
-        <Background Type="CT_RAW" Source="362D2D30" />
+        <Background Type="CT_RAW" Source="4F2D2D30" />
       </Color>
       <Color Name="CommandBarHover">
         <Background Type="CT_RAW" Source="FF3E3E40" />
@@ -2820,7 +2820,7 @@
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="CommandBarToolBarBorder">
-        <Background Type="CT_RAW" Source="3D2D2D30" />
+        <Background Type="CT_RAW" Source="5D2D2D30" />
       </Color>
       <Color Name="CommandBarToolBarSeparator">
         <Background Type="CT_RAW" Source="FF222222" />
@@ -2829,22 +2829,22 @@
         <Background Type="CT_RAW" Source="FF46464A" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="3D2D2D30" />
+        <Background Type="CT_RAW" Source="562D2D30" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="3D2D2D30" />
+        <Background Type="CT_RAW" Source="7D2D2D30" />
       </Color>
       <Color Name="CommandShelfBackgroundGradientMiddle">
-        <Background Type="CT_RAW" Source="3D2D2D30" />
+        <Background Type="CT_RAW" Source="602D2D30" />
       </Color>
       <Color Name="CommandShelfHighlightGradientBegin">
-        <Background Type="CT_RAW" Source="3D2D2D30" />
+        <Background Type="CT_RAW" Source="5C2D2D30" />
       </Color>
       <Color Name="CommandShelfHighlightGradientEnd">
-        <Background Type="CT_RAW" Source="402D2D30" />
+        <Background Type="CT_RAW" Source="5D2D2D30" />
       </Color>
       <Color Name="CommandShelfHighlightGradientMiddle">
-        <Background Type="CT_RAW" Source="3D2D2D30" />
+        <Background Type="CT_RAW" Source="562D2D30" />
       </Color>
       <Color Name="CompletionBorder">
         <Background Type="CT_RAW" Source="FF2D2D30" />
@@ -3103,19 +3103,19 @@
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="EnvironmentBackground">
-        <Background Type="CT_RAW" Source="392D2D30" />
+        <Background Type="CT_RAW" Source="562D2D30" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="392D2D30" />
+        <Background Type="CT_RAW" Source="562D2D30" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="392D2D30" />
+        <Background Type="CT_RAW" Source="492D2D30" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientMiddle1">
-        <Background Type="CT_RAW" Source="362D2D30" />
+        <Background Type="CT_RAW" Source="5C2D2D30" />
       </Color>
       <Color Name="EnvironmentBackgroundGradientMiddle2">
-        <Background Type="CT_RAW" Source="3D2D2D30" />
+        <Background Type="CT_RAW" Source="502D2D30" />
       </Color>
       <Color Name="EnvironmentBackgroundTexture1">
         <Background Type="CT_RAW" Source="FF2D2D30" />
@@ -3592,7 +3592,7 @@
         <Background Type="CT_RAW" Source="FF0E639C" />
       </Color>
       <Color Name="MainWindowActiveCaption">
-        <Background Type="CT_RAW" Source="3D2D2D30" />
+        <Background Type="CT_RAW" Source="502D2D30" />
         <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="MainWindowActiveDebuggingBorder">
@@ -3667,7 +3667,7 @@
         <Background Type="CT_RAW" Source="FF434346" />
       </Color>
       <Color Name="MainWindowInactiveCaption">
-        <Background Type="CT_RAW" Source="3D2D2D30" />
+        <Background Type="CT_RAW" Source="502D2D30" />
         <Foreground Type="CT_RAW" Source="99999999" />
       </Color>
       <Color Name="MainWindowInactiveIconBuilding">
@@ -4584,7 +4584,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Window">
-        <Background Type="CT_RAW" Source="3D252526" />
+        <Background Type="CT_RAW" Source="50252526" />
       </Color>
       <Color Name="WindowFrame">
         <Background Type="CT_RAW" Source="FF2D2D30" />
@@ -8500,7 +8500,7 @@
     </Category>
     <Category Name="TreeView" GUID="{92ecf08e-8b13-4cf4-99e9-ae2692382185}">
       <Color Name="Background">
-        <Background Type="CT_RAW" Source="16252526" />
+        <Background Type="CT_RAW" Source="2C252526" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="DragDropInsertionArrow">
